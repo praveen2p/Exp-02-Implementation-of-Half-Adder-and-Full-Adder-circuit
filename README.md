@@ -46,6 +46,7 @@ RTL realization
 
 ### Output:
 ![hal add pro](https://github.com/praveen2p/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151658061/5ce7f267-ed73-4294-a1cb-a414f3a45a1e)
+
 ![full add pro](https://github.com/praveen2p/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151658061/73184122-3ee1-4f4d-a1a5-24ae53018515)
 
 ### RTL
@@ -60,6 +61,7 @@ RTL realization
 
 ### TRUTH TABLE 
 ![TT hal](https://github.com/praveen2p/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151658061/0c88a19d-edcf-49f7-b4d5-c223c6d972fa)
+
 ![TT full](https://github.com/praveen2p/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151658061/122d3baa-891d-4890-b47f-312584120162)
 
 
